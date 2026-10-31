@@ -1,0 +1,7 @@
+# Bỏ qua 2 file dữ liệu nặng để không bị quá 100MB
+*.csv
+*.parquet
+
+# Bỏ qua các file rác tự động của hệ thống
+.ipynb_checkpoints/
+__pycache__/
